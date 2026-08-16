@@ -1,6 +1,6 @@
 # Signal - Phishing Triage Console
 
-A single-file, zero-dependency web app that automates the first-pass triage step a SOC email-security analyst runs on a reported phishing email: authentication validation, sender-alignment checks, and URL/domain risk analysis — producing a transparent, evidence-scored threat level instead of a black-box flag.
+A single-file, zero-dependency web app that automates the first-pass triage step a SOC email-security analyst runs on a reported phishing email: authentication validation, sender-alignment checks, and URL/domain risk analysis - producing a transparent, evidence-scored threat level instead of a black-box flag.
 
 **[Open `index.html` in any browser — no build step, no server, no API keys needed.]**
 
